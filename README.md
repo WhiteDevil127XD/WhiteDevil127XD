@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WhiteDevil127XD
-- 👀 I’m interested in Hacking && <Programming/>
-- 🌱 I’m currently learning E'Hacking
+- 👀 I’m interested in Hacking && Programming
+- 🌱 I’m currently learning Ethical Hacking
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ->insta @white_devil_127_
 
