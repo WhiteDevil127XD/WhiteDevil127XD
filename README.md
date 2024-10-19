@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hacking && Programming
 - 🌱 I’m currently learning Ethical Hacking
 <!--- 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me ->insta @white_devil_127_
+- 📫 How to reach me -> Linkdin --> https://www.linkedin.com/in/sanket-sherkhane-955ab5204/
 
 <!---
 WhiteDevil127XD/WhiteDevil127XD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
